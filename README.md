@@ -82,12 +82,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-mohan-jha-3b2570206/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="mailto:amjhapcm@gmail.com" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/aditya-mohan-jha-3b2570206/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="mailto:amjhapcm@gmail.com">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      alt="gmail"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 ---
@@ -95,8 +106,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ADITYA9571&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA9571&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA9571&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA9571&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
