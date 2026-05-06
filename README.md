@@ -84,16 +84,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-mohan-jha-3b2570206/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         height="40"
-         width="40"/>
+    height="40" width="40" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  
   <a href="mailto:amjhapcm@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
-         height="40"
-         width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    height="40" width="40" />
   </a>
 </p>
 
@@ -102,11 +98,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA9571&show_icons=true&theme=tokyonight&hide_border=true"
-       height="180"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA9571&layout=compact&theme=tokyonight&hide_border=true"
-       height="180"/>
+  <img width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYA9571&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="37%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA9571&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
