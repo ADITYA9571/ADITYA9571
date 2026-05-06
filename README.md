@@ -82,12 +82,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mohan-jha-3b2570206/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:amjhapcm@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aditya-mohan-jha-3b2570206/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:amjhapcm@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/></a>
 </p>
 
 ## 📊 GitHub Stats
