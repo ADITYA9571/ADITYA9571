@@ -28,6 +28,12 @@
 
 ---
 
+## 💼 Experience
+### 🚀 Business Analytics Intern **@ Allianz** (May 2026 – Present)
+ - Learning practical applications of machine learning in enterprise environments   
+
+---
+
 ## 🔭 Currently Working On
 
 - 🌾 **AgriCareAI** – Crop Health & Market Advisory System (Computer Vision + FastAPI)
