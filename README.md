@@ -3,7 +3,7 @@
 <img src="./assets/coding.gif" width="70%" />
 
 <h1 align="center">Hey there 👋, I'm Aditya Mohan Jha</h1>
-<h3 align="center">Machine Learning Enthusiast · Applied AI Developer · Exploring Generative AI</h3>
+<h3 align="center">Machine Learning Engineer · GenAI & Agentic AI Developer</h3>
 
 </div>
 
@@ -13,8 +13,8 @@
 
 - 🎓 B.Tech CSE student at **KIIT University, Bhubaneswar** (2023–2027)
 - 🤖 Building end-to-end **Machine Learning systems** — from data to deployment
-- 🌱 Currently exploring **Generative AI** with LangChain & HuggingFace
-- ⚡ I love turning messy data into clean, deployable **ML pipelines**
+- 🌱 Specializing in **Generative AI & Agentic Workflows** (LangChain, ReAct pattern, local LLM orchestration)
+- ⚡ ⚡ Focus areas: from AI/ML design to deployement.   
 - 🌐 Experienced in **integrating ML models** with APIs and interactive web applications
 
 ---
@@ -23,64 +23,55 @@
 
 - 😄 Pronouns: He / Him
 - 👯 I'm looking to collaborate on ML / AI projects — especially applied and real-world systems
-- 🤔 Exploring scalable ML systems & cloud deployment workflows
-- ⚡ Fun fact: I debug code at 2am — and genuinely enjoy it
+- 🤔 Exploring scalable ML systems, local LLM inference optimizations, and advanced prompt engineering
+- ⚡ Fun fact: I can debug code at 2am — and genuinely enjoy it
 
 ---
 
 ## 💼 Experience
-### 🚀 Business Analytics Intern **@ Allianz** (May 2026 – Present)
- - Learning practical applications of machine learning in enterprise environments   
+### 🚀 Associate Business Analytics Intern **@ Allianz** (May 2026 – Present)
+- Developing enterprise GenAI workflows, focusing on prompt engineering, agentic patterns, and containerized deployment.
+- Implementing production code utilizing corporate Git protocols, environment isolation, and structured documentation. 
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🌾 **AgriCareAI** – Crop Health & Market Advisory System (Computer Vision + FastAPI)
+- 🌾 **AgriCareAI** – Further features introduction and future implementations
 - 🤖 Completing **Generative AI course** (LangChain, HuggingFace, RAG pipelines)
 - 📊 Sharpening **DSA & System Design** fundamentals
+- 💥 Exporing **Cloud DevOps** Engineering
+
+---
+
+## 🔭 Featured Projects
+
+- 🌾 **AgriCareAI** – Crop Health & Market Advisory System (Computer Vision + Regression + FastAPI)
+- 🤖 **Research Agent & Support Classifier** – GenAI & LLM Orchestration
+- 📊 **Customer Churn Prediction System** – End-to-End ML Pipeline
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-<sub><b>Python • SQL</b></sub>
-
-### 🤖 AI / ML
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-</p>
-
-> Also working with: **LangChain · HuggingFace**
-
-### ⚙️ Backend & Deployment
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
-> Also using: **Streamlit · Google Colab · VS Code**
-
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | Python, SQL |
+| 🤖 Machine Learning | Scikit-learn, TensorFlow, CNNs, Transfer Learning |
+| 🧠 Generative AI | LangChain, Agentic AI (ReAct), Prompt Engineering, Ollama |
+| 📚 Libraries | Pandas, NumPy, Tiktoken, Pydantic |
+| 🚀 Backend | FastAPI, Streamlit, Docker |
+| 🛠 Tools | Git, Linux, VS Code, Google Colab |
 ---
 
 ## 🏆 Certifications & Achievements
 
-| Certification | Provider | Status |
+| Certification / Milestone | Provider / Platform | Status |
 |---|---|---|
-| Machine Learning A-Z: AI, Python & R + ChatGPT Prize | Udemy | ✅ Completed (Mar 2026) |
 | Complete Generative AI with LangChain & HuggingFace | Udemy · Krish Naik | 🔄 In Progress |
+| Machine Learning A-Z: AI, Python & R + ChatGPT | Udemy | ✅ Completed |
 | Smart India Hackathon 2025 | Government of India | 🏅 Participant |
+| LeetCode | 100+ Problems Solved | 🚀 (63-E, 35-M, 2-H) |
 | CodeChef | CodeChef | ⭐⭐ 2 Star (1463 max) |
 
 ---
@@ -100,22 +91,14 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA9571&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ADITYA9571&theme=tokyonight&hide_border=true"/>
-</p>
-
 --- 
 
 ## ✨ Philosophy
 
-I believe the best ML systems are:  
-📊 **Rigorous** (proper evaluation, not just accuracy)  
-🚀 **Deployable** (models that actually run in production)  
-🌍 **Purposeful** (solving real problems, not just benchmarks)
+I believe the best systems are:  
+📊 **Rigorous** (proper evaluation, cost-aware design, metrics over guesswork)  
+🚀 **Deployable** (containerized architectures that run seamlessly in production)  
+🌍 **Purposeful** (solving real enterprise and societal problems, not just chasing accuracy benchmarks)
 
 ---
 
