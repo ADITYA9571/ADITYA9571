@@ -14,7 +14,7 @@
 - 🎓 B.Tech CSE student at **KIIT University, Bhubaneswar** (2023–2027)
 - 🤖 Building end-to-end **Machine Learning systems** — from data to deployment
 - 🌱 Specializing in **Generative AI & Agentic Workflows** (LangChain, ReAct pattern, local LLM orchestration)
-- ⚡ ⚡ Focus areas: from AI/ML design to deployement.   
+- ⚡ Focus areas: from AI/ML design to deployement.   
 - 🌐 Experienced in **integrating ML models** with APIs and interactive web applications
 
 ---
